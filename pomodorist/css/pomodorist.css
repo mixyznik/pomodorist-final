@@ -1,0 +1,21 @@
+.box p{
+    
+    display: inline-block;
+}
+
+h1{
+  color:red;  
+}
+#opa1 {
+    
+    margin-left: 50px;
+}
+
+#zemo {
+    color:red;
+    font-size: 250%;
+}
+#demo {
+    color:red;
+   font-size: 250%; 
+}
